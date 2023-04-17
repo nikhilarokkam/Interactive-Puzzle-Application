@@ -39,16 +39,10 @@ class Login{
             return $user_data;
         }
         else{
-            header("Location:login.php");
+            header("Location:index.php");
             die;
             }
         }
 
-}
-?>
-<?php
-session_start();
-if($userid=='320126510116'){
-    header("Location:admin.php");
 }
 ?>
