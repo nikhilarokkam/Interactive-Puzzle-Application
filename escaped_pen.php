@@ -28,7 +28,7 @@
          setTimeout(myURL, 5000);
          var result = document.getElementById("result");
       function myURL() {
-         document.location.href = 'login.php';
+         document.location.href = 'index.php';
       }
    </script>
 </body>
