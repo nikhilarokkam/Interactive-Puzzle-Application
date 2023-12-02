@@ -11,5 +11,5 @@ In my puzzle application a penguin named Flappy is held captive in a research st
 1.XAMPP SERVER for PHP,MySQl<br/>
 2.vscode , sublimetext or any coding platform<br/>
 3.Knowledge of HTML,CSS,JavaScript,PHP,MySQL<br/><br/><br/>
-Online Website link for the project <br/>
+Deployed Link <br/>
 <a href="http://puzzleapp.infinityfreeapp.com/">http://puzzleapp.infinityfreeapp.com/
