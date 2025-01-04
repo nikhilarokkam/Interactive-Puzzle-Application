@@ -12,4 +12,3 @@ In my puzzle application a penguin named Flappy is held captive in a research st
 2.VSCode , Sublimetext or any Coding Platform<br/>
 3.Knowledge of HTML, CSS, JavaScript, PHP, MySQL<br/><br/><br/>
 
-
