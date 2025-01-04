@@ -8,6 +8,6 @@ Snowstorm's Escape Room:
 Escape Rooms are a game from where the objective is to complete the mission and "escape" from a locked room. A successful escape involves finding hidden clues and solving puzzles spread through out the room.
 In my puzzle application a penguin named Flappy is held captive in a research station. And we need to rescue it by solving puzles,finding the hidden clues.
 ### Usage
-1.XAMPP SERVER for PHP, MySQl<br/>
-2.VSCode , Sublimetext or any Coding Platform<br/>
-3.Knowledge of HTML, CSS, JavaScript, PHP, MySQL<br/><br/><br/>
+1. XAMPP SERVER for PHP, MySQl<br/>
+2. VSCode , Sublimetext or any Coding Platform<br/>
+3. Knowledge of HTML, CSS, JavaScript, PHP, MySQL<br/><br/><br/>
